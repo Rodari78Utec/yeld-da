@@ -7,4 +7,5 @@ xgboost==2.0.3
 lightgbm==4.3.0
 category-encoders==2.6.3
 umap-learn==0.5.6
-
+nltk
+TextBlob
